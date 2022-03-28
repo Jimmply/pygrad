@@ -48,3 +48,4 @@ for epoch in range(n_iters):
 
 print(f'Prediction after training: f(5) = {forward(5):.3f}')
 #print(f'Prediction before training: f(5) = {forward(5):.3f}'
+#add some text
